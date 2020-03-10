@@ -1,0 +1,65 @@
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.StaticWebAssets.xml
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.exe
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.deps.json
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.runtimeconfig.json
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.runtimeconfig.dev.json
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.pdb
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.Views.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\SofteServe Project.Views.pdb
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.csprojAssemblyReference.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\staticwebassets\SofteServe Project.StaticWebAssets.Manifest.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\staticwebassets\SofteServe Project.StaticWebAssets.xml
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.MvcApplicationPartsAssemblyInfo.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.MvcApplicationPartsAssemblyInfo.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.RazorAssemblyInfo.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.RazorAssemblyInfo.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.AssemblyInfoInputs.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.AssemblyInfo.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.TagHelpers.input.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.TagHelpers.output.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.RazorCoreGenerate.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.RazorTargetAssemblyInfo.cache
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.RazorTargetAssemblyInfo.cs
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.Views.pdb
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.csproj.CopyComplete
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.dll
+D:\SoftServe Project\SofteServe Project\SofteServe Project\obj\Debug\netcoreapp3.1\SofteServe Project.pdb
